@@ -1,0 +1,6 @@
+,Repo,Category,perc_metric
+10,CatBoost,ML,80.20271799994175
+11,LightAutoML,ML,59.50849409296478
+12,PyTorch,ML,80.19883705562447
+13,Scikit-Learn,ML,100.0
+14,Tensorflow,ML,90.03197357104287
